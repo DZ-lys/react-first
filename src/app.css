@@ -1,0 +1,16 @@
+.Header {
+    background-color: aqua;
+    width: 100px;
+    height: 40px;
+}
+
+.Cards {
+    display: flex;
+    gap: 20px;
+}
+.Card {
+    background-color: rebeccapurple;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
